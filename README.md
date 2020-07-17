@@ -4,9 +4,9 @@
 
 # 
 
-- 🔭 Designer & Co-founder @ <a href="https://stoika.design/">stoika</a>
-- 🔭 Teacher, Designer & Co-founder @ Usabilizando
-- 🔭 Visual artist & Founder @ Mazanza
+- 🔭 Designer & Co-founder @ <a href="https://stoika.design/">Stoika</a>
+- 🔭 Teacher, Designer & Co-founder @ <a href="https://usabilizando.design/">Usabilizando</a>
+
 
 #
 
