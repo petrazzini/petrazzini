@@ -4,6 +4,8 @@
 
 # 
 
+- 🔭 Independent Design Consultant
+- 🔭 Product Design Specialist @ <a href="https://www.bancopan.com.br/">Banco Pan</a>
 - 🔭 Designer & Co-founder @ <a href="https://stoika.design/">Stoika</a>
 - 🔭 Teacher, Designer & Co-founder @ <a href="https://usabilizando.design/">Usabilizando</a>
 
