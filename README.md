@@ -1,15 +1,12 @@
 # Hi there 👋
- Product & visual designer, helping companies and startups with branding, UX and UI design.
-
+Arnaldo is a Brazilian designer experienced in visual and product design. 
+For the past 8+ years been working on projects filling the gap between a product and visual designer.
 
 # 
-
-- 🔭 Independent Design Consultant
-- 🔭 Product Design Specialist @ <a href="https://www.bancopan.com.br/">Banco Pan</a>
-- 🔭 Designer & Co-founder @ <a href="https://stoika.design/">Stoika</a>
-- 🔭 Teacher, Designer & Co-founder @ <a href="https://usabilizando.design/">Usabilizando</a>
-
+Currently working at Height; 
+Prev. Banco Pan and Stoika Design.
 
 #
 
+🌻
 Find me anywhere as <a href="https://instagram.com/petrazzini/">@petrazzini</a>
