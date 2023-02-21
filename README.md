@@ -3,7 +3,7 @@ Arnaldo is a Brazilian designer experienced in visual and product design.
 For the past 8+ years been working on projects filling the gap between a product and visual designer.
 
 # 
-Currently working at Height; 
+Currently working at Height; <br>
 Prev. Banco Pan and Stoika Design.
 
 #
